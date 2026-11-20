@@ -121,3 +121,6 @@ ACAT was developed as a capstone project for CSC 599 and aims to improve efficie
 10. Coordinators review improvement actions.
 11. Administrators generate reports.
 12. Reports are exported as PDF documents.
+
+## 🎥 Demo
+[![Watch Demo](https://lauedu74602-my.sharepoint.com/:v:/g/personal/reem_diab02_lau_edu/IQDiVpatWKNzTIqsbDYEW3FRASWOk_S86_RA8GeHVboytTw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dKbabr)
